@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Xintong Mi</h1>
 
-:woman_technologist: I am a full-stack software engineer with a background in Mechanical Engineering.
+:woman_technologist: I am looking for a full-stack software engineer position.
 
 :woman_student: I am a highly organized and intuitive problem solver with a goal-oriented mindset. 
 
