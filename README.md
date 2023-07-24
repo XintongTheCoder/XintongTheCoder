@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 📫 Interested in connecting? Feel free to shoot me a message and let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xintongmi/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xintongmi@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xintongmi@gmail.com)
 
 📍 Based in Bay Area, CA, but open for relocation!
 
