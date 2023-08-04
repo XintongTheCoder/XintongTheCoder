@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Xintong Mi</h1>
+<h1>Hi 👋, I'm Xintong (Cindy) Mi</h1>
 
 :woman_technologist: I am looking for a full-stack software engineer position.
 
