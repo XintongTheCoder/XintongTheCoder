@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Xintong (Cindy) Mi</h1>
 
-:woman_technologist: I am looking for a full-stack software engineer position.
+:woman_technologist: I am looking for a software engineer position.
 
 :woman_student: I am a highly organized and intuitive problem solver with a goal-oriented mindset. 
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xintongmi/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xintongmi@gmail.com)
 
-📍 Based in Bay Area, CA, but open for relocation!
+📍 Based in the Bay Area, CA, but open for relocation!
 
 
 <h3 align="left">Languages and Tools:</h3>
