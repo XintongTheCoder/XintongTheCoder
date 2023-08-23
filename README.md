@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">Leetcode Records:</h3>
 
-<a href="https://ibb.co/cN9KGpT"><img src="https://i.ibb.co/ZhrRnwT/Screen-Shot-2023-08-03-at-20-46-37.png" alt="Screen-Shot-2023-08-03-at-20-46-37" width="300" border="0"></a>
-
+<a href="https://ibb.co/cN9KGpT"><img src="https://i.ibb.co/LzrxrBD/Screen-Shot-2023-08-23-at-16-44-21.png" alt="Screen-Shot-2023-08-03-at-20-46-37" width="300" border="0"></a>
